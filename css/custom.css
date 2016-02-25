@@ -35,4 +35,8 @@ background-color: #C8C8C8 ;
 .footer {
 	margin-left: 19px;
 }
+
+.heading small {
+	font-size: 13px;
+}
  
